@@ -1,4 +1,5 @@
-![alt text](bitcamp-android/Screenshot 2023-05-21 at 4.12.11 PM.png)
+<img width="512" alt="Screenshot 2023-05-21 at 4 12 11 PM" src="https://github.com/pistachionet/bitcamp-android/assets/78292140/eefab330-e01f-4751-9812-bee8136b91e9">
+
 
 
 # What's Cookin? - Synopsis
