@@ -1,3 +1,6 @@
+![alt text](Screenshot 2023-05-21 at 4.12.11 PM.png)
+
+
 # What's Cookin? - Synopsis
 
 This is a mobile application that displays the daily updated menu (Breakfast, Lunch, Dinner) for the current 3 UMD dining halls around campus (South diner, The Diner, and 251 North). Each diner traditionally has its own daily menu which varies from diner to diner. Users may filter to their diner of preference and see a live update of the menu. Furthermore, the functionality that we wanted to highlight is its versatility in being able to filter diner menu options for people with dietary restrictions. We found that many times (from personal experience) the trip made to the dining hall was not worth it as the limited selection of food items available to our diets was not worth the trip. Thus, we aimed to tackle the challenge of being able to keep terps connected and updated in a compact and reliable way as to what food was available to them. And what better way to do this than a mobile app.
