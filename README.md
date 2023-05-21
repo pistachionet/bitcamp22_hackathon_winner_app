@@ -1,4 +1,4 @@
-![alt text](Screenshot 2023-05-21 at 4.12.11 PM.png)
+![alt text](bitcamp-android/Screenshot 2023-05-21 at 4.12.11 PM.png)
 
 
 # What's Cookin? - Synopsis
